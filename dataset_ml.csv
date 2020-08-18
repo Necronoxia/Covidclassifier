@@ -1,5 +1,4 @@
-age,sex,fever,cough,muscle soreness,fatigue,headache,respiratory symptoms,nasal congestion,covid-19
-42,0,1,1,0,0,0,0,0,1
+42,0,1,0,0,0,0,0,0,1
 59,0,1,0,0,0,0,0,0,1
 38,0,0,1,0,0,0,0,0,1
 45,1,1,0,0,0,0,0,0,1
